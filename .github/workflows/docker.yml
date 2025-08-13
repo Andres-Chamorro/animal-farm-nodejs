@@ -40,5 +40,5 @@ jobs:
           push: true
           tags: |
             andrescm/animal-farm-nodejs:latest
-            ghcr.io/andres-chamorro/animal-farm-nodejs:latest
+            ghcr.io/Andres-Chamorro/animal-farm-nodejs:latest
 

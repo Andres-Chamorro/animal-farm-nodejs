@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Andres-Chamorro/animal-farm-nodejs:latest
-            ghcr.io/jamtur01/animal-farm-nodejs:latest
+            andrescm/animal-farm-nodejs:latest
+            ghcr.io/andres-chamorro/animal-farm-nodejs:latest

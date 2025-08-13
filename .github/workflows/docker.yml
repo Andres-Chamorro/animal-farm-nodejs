@@ -41,4 +41,3 @@ jobs:
           tags: |
             andrescm/animal-farm-nodejs:latest
             ghcr.io/andres-chamorro/animal-farm-nodejs:latest
-
